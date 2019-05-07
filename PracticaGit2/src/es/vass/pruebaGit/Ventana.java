@@ -40,7 +40,13 @@ public static void main (String [] args)
 
 public void metodoEmilio () {
 	
-	System.out.println("metodo de Emilio +  ");
+	System.out.println("metodo de Emilio + Edgar + David + Ivan  ");
+	
+}
+
+public void metodoDavid() {
+	
+	System.out.println("metodo de David");
 }
 
 public void metodoEdgar () {
@@ -48,5 +54,10 @@ public void metodoEdgar () {
 	System.out.println("metodo de Edgar +  ");
 }
 	
+  
+public void metodoIvan () {
+	
+	System.out.println("metodo de Ivan");
 
+}
 }
