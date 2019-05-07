@@ -49,6 +49,12 @@ public void metodoDavid() {
 	System.out.println("metodo de David");
 	
 }
+
+public void metodoHansel() {
+	
+	System.out.println("metodo de Hansel");
+	
+}
 	
 
 }
