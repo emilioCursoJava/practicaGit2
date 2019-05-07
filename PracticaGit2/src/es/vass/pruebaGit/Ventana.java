@@ -40,7 +40,12 @@ public static void main (String [] args)
 
 public void metodoEmilio () {
 	
-	System.out.println("metodo de edgar +  ");
+	System.out.println("metodo de Emilio +  ");
+}
+
+public void metodoEdgar () {
+	
+	System.out.println("metodo de Edgar +  ");
 }
 	
 
