@@ -41,6 +41,13 @@ public static void main (String [] args)
 public void metodoEmilio () {
 	
 	System.out.println("metodo de edgar +  ");
+	
+}
+
+public void metodoDavid() {
+	
+	System.out.println("metodo de David");
+	
 }
 	
 
