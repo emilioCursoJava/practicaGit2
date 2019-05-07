@@ -37,6 +37,11 @@ public static void main (String [] args)
  	x.swingventana();
  
  }
+
+public void metodoEmilio () {
+	
+	System.out.println("metodo de emilio +  ");
+}
 	
 
 }
